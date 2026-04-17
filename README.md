@@ -77,6 +77,10 @@ There are two groups of notebooks in this portfolio:
 **Topic:** Regression / Model Tuning  
 **Summary:** A white-wine quality project built around regression modeling and hyperparameter tuning. The notebook includes data loading, exploratory analysis, model training, and tuning-oriented comparison.
 
+### 14. `Investigating_KMeans_Clustering.ipynb`
+**Topic:** Unsupervised Learning / Clustering  
+**Summary:** An exploratory analysis of K-Means clustering used to identify natural groupings within a dataset. The notebook walks through data preparation, cluster training, visualization, and evaluation of cluster structure using techniques such as the elbow method and cluster interpretation.
+
 ---
 
 ## Design philosophy of this portfolio
@@ -101,14 +105,3 @@ The notebooks in this repository are intentionally written in a **clear, explici
 - deep learning with PyTorch
 - recommendation systems
 - basic quantitative strategy analysis
-
----
-
-## Suggested next expansions
-
-If this portfolio were extended further, strong next steps would include:
-- hyperparameter tuning notebooks for the fundamentals projects
-- a full recommendation-system deployment project
-- time-series modeling beyond rule-based trading strategies
-- experiment tracking and model versioning
-- feature-importance and explainability notebooks

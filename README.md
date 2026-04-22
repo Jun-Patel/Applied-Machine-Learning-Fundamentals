@@ -1,5 +1,5 @@
 # Applied-Machine-Learning-Fundamentals
-A complete guide to learning and using common ML concepts + libraries + methods. The idea is to work through the fundamentals and then experiment with various libraries, model-tuning, variable optimization, etc to fully explore ML concepts.
+A complete guide to my learning and exploration of common ML concepts + libraries + methods. The idea is to work through the fundamentals and then experiment with various libraries, model-tuning, variable optimization, etc to fully explore ML concepts. Some of this was taken from undegraduate Machine Learning Courses during my studies.
 
 ## What this repository contains
 
